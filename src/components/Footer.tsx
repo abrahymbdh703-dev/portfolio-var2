@@ -8,7 +8,7 @@ import { useLanguage } from '@/lib/language';
 type SocialKey = 'email' | 'phone' | null;
 
 const EMAIL = 'abrahymbdh703@gmail.com';
-const PHONE = '01037847989';
+const PHONE = '01037849789';
 
 export function Footer() {
   const { t, dir } = useLanguage();
