@@ -89,8 +89,8 @@ export function Contact() {
     borderColor: active ? 'var(--primary)' : 'var(--border)',
   });
 
-  const revealedValue = revealed === 'email' ? 'abrahymbdh703@gmail.com' : '01037847989';
-  const revealedHref = revealed === 'email' ? 'mailto:abrahymbdh703@gmail.com' : 'tel:01037847989';
+  const revealedValue = revealed === 'email' ? 'abrahymbdh703@gmail.com' : '01037849789';
+  const revealedHref = revealed === 'email' ? 'mailto:abrahymbdh703@gmail.com' : 'tel:01037849789';
 
   return (
     <section id="contact" className="relative py-24 md:py-32">
