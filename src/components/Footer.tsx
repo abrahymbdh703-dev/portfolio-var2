@@ -233,11 +233,11 @@ export function Footer() {
               </li>
               <li dir="ltr">
                 <a
-                  href="tel:01037847989"
+                  href="tel:01037849789"
                   className="group/contact inline-flex items-center gap-2 transition-colors hover:text-current"
                 >
                   <Phone className="h-4 w-4 shrink-0 transition-transform duration-300 group-hover/contact:scale-125" style={{ color: 'var(--primary)' }} />
-                  01037847989
+                  01037849789
                 </a>
               </li>
             </ul>
