@@ -172,7 +172,7 @@ export function Hero() {
               <Mail className="h-5 w-5" />
             </a>
             <a
-              href="tel:01037847989"
+              href="tel:01037849789"
               aria-label={t('contactPhone')}
               className="flex h-11 w-11 items-center justify-center rounded-full transition-all duration-300 hover:-translate-y-1"
               style={{ border: '1.5px solid var(--border)', color: 'var(--text-dim)' }}
